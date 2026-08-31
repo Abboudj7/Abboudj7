@@ -1,155 +1,166 @@
-# 👋 Hey, I'm Abdullah!
+<!-- ========================= -->
+<!--        HEADER / HERO      -->
+<!-- ========================= -->
 
-<h1 align="center">Welcome to my Digital World 🚀</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
+# 👋 Hi, I'm Abdullah Hamdy
 
-<p align="center">
-  <b>Software Engineering Student | Developer | Tech Enthusiast</b>
-</p>
+### Software Engineering Student · Developer · Tech Enthusiast
 
-<p align="center">
-  <a href="https://github.com/Abhoudj7">
-    <img src="https://img.shields.io/badge/GitHub-Abhoudj7-181717?style=flat-square&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/abdalla-hamdi-082b042aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:abdullahhamdy7601@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+I build software, learn new technologies, and turn ideas into real projects.
+
+<br>
+
+<a href="https://github.com/Abhoudj7">
+  <img src="https://img.shields.io/badge/GitHub-Abhoudj7-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abdalla-hamdi-082b042aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Hamdy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdullahhamdy7601@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhoudj7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Abdullah**, a Software Engineering student at **Istanbul Okan University** in Istanbul, Türkiye.
+Hi! I'm **Abdullah Hamdy**, a Software Engineering student at **Istanbul Okan University**.
 
-I'm passionate about software development and continuously working on improving my programming, problem-solving, and technical skills.
+I'm passionate about software development and technology, and I'm constantly working on improving my programming and problem-solving skills.
 
-🎓 Software Engineering Student  
-💻 Interested in Software Development  
-🐍 Learning Python & Data Science  
-🤖 Interested in Artificial Intelligence  
-🚀 Building projects and learning new technologies
+I'm currently focused on building a strong foundation in software engineering while exploring **Python, Artificial Intelligence, Data Science, Web Development, and Mobile Development**.
+
+### 🚀 What I'm working toward
+
+- 💻 Becoming a professional Software Engineer
+- 🐍 Improving my Python skills
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Learning Data Science
+- 🌐 Building Web Applications
+- 📱 Developing Mobile Applications
+- 🧠 Improving problem-solving and software design skills
+- 🚀 Building real-world projects
 
 ---
 
-## 🧠 Technologies & Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### ⚙️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,android,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,android" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐍 Python
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science
-- 🌐 Web Development
-- 📱 Mobile Application Development
-- 🗄️ Databases & SQL
-- 🧠 Software Engineering & Design Patterns
-- 🧪 Software Testing & Quality
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python
+
+- Programming fundamentals
+- Object-Oriented Programming
+- Data structures
+- Problem solving
+- Data analysis
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Data
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Applied AI
+- Python for Data Science
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Backend development
+- Databases
+
+</td>
+
+<td width="50%">
+
+### 📱 Software Engineering
+
+- Software architecture
+- Design patterns
+- Software testing
+- Database systems
+- Mobile development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 My Goals
+## 🚀 Projects
 
-My current goal is to become a strong **Software Engineer** by building real-world projects and continuously improving my technical skills.
+I'm continuously building projects to improve my practical software engineering skills.
 
-I'm particularly interested in:
+### 🔹 Featured Projects
 
-- Software Development
-- Artificial Intelligence
-- Data Science
-- Web Development
-- Mobile Development
-- Backend Development
+> 🚧 More projects coming soon...
+
+<!--
+When you have projects, replace this section with:
+
+### Project Name
+Short description of the project.
+
+**Technologies:** Python · Flask · SQL
+
+[View Project](PROJECT_URL)
+-->
 
 ---
 
 ## 🎓 Education
 
-**Istanbul Okan University**  
-Bachelor's Degree in Software Engineering  
+### Istanbul Okan University
+
+**Bachelor's Degree in Software Engineering**
+
 📍 Istanbul, Türkiye
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhoudj7&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhoudj7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhoudj7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 My Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhoudj7&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Abhoudj7">
-<img src="https://img.shields.io/badge/GitHub-Abhoudj7-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/abdalla-hamdi-082b042aa/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:abdullahhamdy7601@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-## 💡 Quote
-
-> "The best way to predict the future is to create it."
-
----
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to star them!
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
- 
- 
+```text
+[████████████████░░░░] 80%  Improve Programming Skills
+[██████████████░░░░░░] 70%  Build Real-World Projects
+[████████████░░░░░░░░] 60%  Learn Python & Data Science
+[██████████░░░░░░░░░░] 50%  Explore Artificial Intelligence
+[████████░░░░░░░░░░░░] 40%  Improve English & Turkish
