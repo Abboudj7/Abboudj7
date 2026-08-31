@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Hamdy
+# 👋 Hi, I'm Abdulla Hamdi
 
 ### Software Engineering Student · Developer · Tech Enthusiast
 
@@ -15,9 +15,11 @@ I build software, learn new technologies, and turn ideas into real projects.
 <a href="https://github.com/Abhoudj7">
   <img src="https://img.shields.io/badge/GitHub-Abhoudj7-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/abdalla-hamdi-082b042aa/">
   <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Hamdy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:abdullahhamdy7601@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -32,13 +34,13 @@ I build software, learn new technologies, and turn ideas into real projects.
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Abdullah Hamdy**, a Software Engineering student at **Istanbul Okan University**.
+Hi! I'm **Abdullah Hamdy**, a Software Engineering student at **Istanbul Okan University** in Istanbul, Türkiye.
 
 I'm passionate about software development and technology, and I'm constantly working on improving my programming and problem-solving skills.
 
 I'm currently focused on building a strong foundation in software engineering while exploring **Python, Artificial Intelligence, Data Science, Web Development, and Mobile Development**.
 
-### 🚀 What I'm working toward
+### 🚀 What I'm Working Toward
 
 - 💻 Becoming a professional Software Engineer
 - 🐍 Improving my Python skills
@@ -77,9 +79,9 @@ I'm currently focused on building a strong foundation in software engineering wh
 
 - Programming fundamentals
 - Object-Oriented Programming
-- Data structures
-- Problem solving
-- Data analysis
+- Data Structures
+- Problem Solving
+- Data Analysis
 
 </td>
 
@@ -104,7 +106,7 @@ I'm currently focused on building a strong foundation in software engineering wh
 - HTML
 - CSS
 - JavaScript
-- Backend development
+- Backend Development
 - Databases
 
 </td>
@@ -113,11 +115,11 @@ I'm currently focused on building a strong foundation in software engineering wh
 
 ### 📱 Software Engineering
 
-- Software architecture
-- Design patterns
-- Software testing
-- Database systems
-- Mobile development
+- Software Architecture
+- Design Patterns
+- Software Testing
+- Database Systems
+- Mobile Development
 
 </td>
 </tr>
@@ -132,17 +134,6 @@ I'm continuously building projects to improve my practical software engineering 
 ### 🔹 Featured Projects
 
 > 🚧 More projects coming soon...
-
-<!--
-When you have projects, replace this section with:
-
-### Project Name
-Short description of the project.
-
-**Technologies:** Python · Flask · SQL
-
-[View Project](PROJECT_URL)
--->
 
 ---
 
@@ -164,3 +155,94 @@ Short description of the project.
 [████████████░░░░░░░░] 60%  Learn Python & Data Science
 [██████████░░░░░░░░░░] 50%  Explore Artificial Intelligence
 [████████░░░░░░░░░░░░] 40%  Improve English & Turkish
+```
+
+My main goal is not just to learn technologies, but to **build things with them**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Abhoudj7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhoudj7&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Abhoudj7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhoudj7&layout=compact&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
+---
+
+## 🌱 My Development Journey
+
+```text
+Software Engineering
+        │
+        ├── Programming
+        │     ├── Python
+        │     ├── Java
+        │     └── JavaScript
+        │
+        ├── Web Development
+        │     ├── HTML
+        │     ├── CSS
+        │     └── JavaScript
+        │
+        ├── Mobile Development
+        │     └── Android
+        │
+        ├── Data & AI
+        │     ├── Python
+        │     ├── Data Science
+        │     └── Machine Learning
+        │
+        └── Software Engineering
+              ├── Databases
+              ├── Design Patterns
+              ├── Testing
+              └── Software Architecture
+```
+
+---
+
+## 💡 Philosophy
+
+> **"Don't just learn how things work. Build something with them."**
+
+I believe the best way to become a better developer is to keep learning, keep building, and keep solving problems.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, students, and technology enthusiasts.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdalla-hamdi-082b042aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abdullahhamdy7601@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Abhoudj7">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning · Keep building · Keep growing 🚀**
+
+</div>
