@@ -34,7 +34,7 @@ I build software, learn new technologies, and turn ideas into real projects.
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Abdullah Hamdy**, a Software Engineering student at **Istanbul Okan University** in Istanbul, Türkiye.
+Hi! I'm **Abdulla Hamdi**, a Software Engineering student at **Istanbul Okan University** in Istanbul, Türkiye.
 
 I'm passionate about software development and technology, and I'm constantly working on improving my programming and problem-solving skills.
 
